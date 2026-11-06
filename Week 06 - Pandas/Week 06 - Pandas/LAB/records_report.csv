@@ -1,0 +1,6 @@
+hostname,used_gb,total_gb,percent,status
+srv-01,87,120,72.5,OK
+desktop-02,114,120,95.0,WARNING
+backup-03,150,120,125.0,OVER LIMIT
+full-04,120,120,100.0,OVER LIMIT
+idle-05,0,120,0.0,OK

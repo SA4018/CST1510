@@ -1,0 +1,5 @@
+srv-01,OK
+desktop-02,WARNING
+backup-03,OVER LIMIT
+full-04,OVER LIMIT
+idle-05,OK
